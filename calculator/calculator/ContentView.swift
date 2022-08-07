@@ -20,7 +20,7 @@ struct ContentView: View {
             
             VStack {
                 Text("Calculator")
-                    .font(Font.custom("Mishafi Regular", size: 30))
+                    .font(Font.custom("Mishafi Reikgular", size: 30))
                     .padding()
                     
                 Spacer()
